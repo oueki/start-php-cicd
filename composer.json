@@ -13,9 +13,6 @@
             "email": "ysov-p@mail.ru"
         }
     ],
-    "require": {
-        "php": "^7.4"
-    },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
