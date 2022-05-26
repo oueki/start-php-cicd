@@ -1,5 +1,6 @@
 {
     "name": "ausov/start-php-cicd",
+    "description": "The Test App",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
